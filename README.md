@@ -1,5 +1,5 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 15-05-2026
+### DATE: 07-09-2026
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,8 +26,18 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
-<img width="1913" height="1081" alt="{77225458-C351-4451-94FB-5BE9C2843EF1}" src="https://github.com/user-attachments/assets/ef1fc712-7138-47a6-8043-3bd1bc2f2e86" />
-<img width="1920" height="1083" alt="{64A200E6-5CF8-460A-BA44-538EF8D13279}" src="https://github.com/user-attachments/assets/6ff4e581-9e01-450b-8be8-898c4d9b6843" />
+
+
+<img width="1582" height="938" alt="image" src="https://github.com/user-attachments/assets/54532bee-33b1-42e3-827a-919f3abd9838" />
+
+
+
+<img width="1597" height="952" alt="image" src="https://github.com/user-attachments/assets/cfe56e37-ada3-4eb4-bc97-b81969637371" />
+
+
 
 ### Result:
-Thus sentimental analysis for play_app_data is executed successfully using rapidminer.
+
+The Excel data was imported into RapidMiner, sentiment analysis was performed using the Generate Attributes operator with the VADER algorithm, and the results were analyzed and exported to a new Excel file successfully.
+
+
